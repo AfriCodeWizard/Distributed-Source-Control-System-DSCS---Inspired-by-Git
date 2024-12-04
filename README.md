@@ -306,5 +306,5 @@ console.log(stats);
 3. Add tests
 4. Submit pull request
 
-For detailed contribution guidelines, see CONTRIBUTING.md.
+For a detailed development process, see DEVELOPMENT.md.
 
